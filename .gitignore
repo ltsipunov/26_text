@@ -155,3 +155,5 @@ cython_debug/
 
 # CatboostClassifier
 catboost_info
+catboost_info/*
+
